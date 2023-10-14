@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="clients.rgbrands.import_data.import_routes.unknown_row_indexes" />
+          <option value="clients.rgbrands.import_data.tests.test_import_stores.IPython" />
+          <option value="clients.rgbrands.import_data.import_stores.store_agent_" />
+          <option value="clients.rgbrands.import_data.import_stores.store_agent" />
+          <option value="clients.rgbrands.import_data.import_routes.route_" />
+          <option value="clients.rgbrands.import_data.import_routes.true" />
+          <option value="clients.rgbrands.import_data.import_routes.updated_at" />
+          <option value="clients.rgbrands.import_data.import_routes.IPython" />
+          <option value="clients.reckitt_benckiser.import_images.URL_" />
+          <option value="clients.nestle_purina_ru.nestle_purina_import_from_db.import_data.import_popm_products.requirement_id_to" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.test.objects" />
+          <option value="clients.nestle_purina_ru.nestle_purina_import_from_db.import_data.tests.test_import_popm_products.get_popm_" />
+          <option value="clients.nestle_purina_ru.nestle_purina_import_from_db.import_data.tests.test_import_popm_products.get_popm_dates" />
+          <option value="clients.nestle_purina_ru.nestle_purina_import_from_db.import_data.tests.test_import_store_popm.customer_ids" />
+          <option value="clients.nestle_purina_ru.nestle_purina_import_from_db.import_data.import_popm_products.sku_" />
+          <option value="clients.pepsico_common.pepsico_common_import_from_db.import_data.utils.PepsicoEquipmentGraph" />
+          <option value="clients.pepsico_common.pepsico_common_import_from_db.import_data.import_secondary_placement.SP_TYPE_" />
+          <option value="clients.pepsico_common.pepsico_common_import_from_db.import_data.tests.test_import_secondary_placement.IPython" />
+          <option value="clients.pepsico_common.pepsico_common_import_from_db.import_data.import_planogram.PlanogramType.model_type" />
+          <option value="clients.pepsico_common.pepsico_common_import_from_db.import_data.import_planogram.PLANOGRAM_" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.import_planogram.datemp" />
+          <option value="clients.pepsico_common.import_data.utils.get_image" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.import_planogram.customer_id_to_display" />
+          <option value="clients.pepsico_common.pepsico_common_import_from_db.import_data.models" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.import_equipment_plan.SPECIAL_PLACE" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.import_equipment_plan.sp_group_cid" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.import_equipment_plan.store_" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.map_task_to_display.sp_type__cid__" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.map_task_to_display.group_name" />
+          <option value="clients.pepsico_po1.import_from_db.import_data.map_task_to_display.get_tasks_for_secondary_placement" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
